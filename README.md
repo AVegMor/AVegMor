@@ -1,37 +1,75 @@
 ## Hi there 👋
-<!--
-## 📱 Programación Multimedia y Dispositivos Móviles
-Proyectos desarrollados utilizando **Kotlin** y **Jetpack Compose**.
 
-### Proyectos para el módulo de **[Entornos de desarrollo]**
-- **[Proyecto 1: Calculadora baásica con tests unitarios](https://github.com/AVegMor/Calculator)**
+<!--
+## 🖥️ Entornos de Desarrollo
+Proyectos varios relacionados con la configuración y optimización de entornos de desarrollo.
+
+### Proyectos 
+- **[Proyecto: Calculadora baásica con tests unitarios](https://github.com/AVegMor/Calculator)**
   - Tecnologías: Java, Sonarqube, JUnit.
 
-- **[Proyecto 2: Coche](https://github.com/AVegMor/CocheCalidad)**
+- **[Proyecto: Coche](https://github.com/AVegMor/CocheCalidad)**
   - Descripción: Un objeto Coche en el cual se han de detectar las posibles mejoras relacionadas con la mejora de calidad del código.
   - Tecnologías:  Java, Sonarqube, JUnit.
 
-- **[Proyecto 3: Tienda Online](https://github.com/AVegMor/TiendaOnlineCalidad)**
+- **[Proyecto: Tienda Online](https://github.com/AVegMor/TiendaOnlineCalidad)**
   - Descripción: Una tienda online en la cual se han de detectar las posibles mejoras relacionadas con la mejora de calidad del código.
   - Tecnologías: Java, Sonarqube, JUnit.
 ---
 
-## 🌐 Desarrollo Web en Entornos Servidor
-Proyectos desarrollados en **PHP** con aplicaciones web dinámicas.
+## 🌐 Desarrollo Web en Entorno Servidor
+Proyectos desarrollados en **PHP**.
 
 ### Proyectos
-- **[Proyecto 1: Sistema de Gestión de Usuarios](https://github.com/tu-usuario/proyecto3)**
-  - Descripción: Una aplicación web para gestionar usuarios, con autenticación y CRUD completo.
-  - Tecnologías: PHP, MySQL.
+- **[Proyecto: Número secreto sin uso de sesiones ni cookies](https://github.com/AVegMor/numero_secreto)**
+  - Descripción: Una aplicación web para adivinar un número secreto sin usar cookies ni sesiones.
+  - Tecnologías: PHP.
 
-- **[Proyecto 2: Blog Dinámico](https://github.com/tu-usuario/proyecto4)**
-  - Descripción: Plataforma para publicar y gestionar entradas de blog.
-  - Tecnologías: PHP, Bootstrap.
+- **[Proyecto: Número secreto usando cookies y sesiones](https://github.com/tu-usuario/proyecto4)**
+  - Descripción: Una aplicación web para adivinar un número secreto usando sesiones.
+  - Tecnologías: PHP.
 
+- **[Proyecto: 🛠️ MiniSolitario Plantilla](https://github.com/AVegMor/miniSolitarioTodo)**
+  - Descripción: Plantilla para resolver el juego del solitario versión mini.
+  - Tecnologías: PHP.
+  - Este proyecto está basado en uno de los ejemplos proporcionados en [Mclibre](https://www.mclibre.org/). 
+
+- **[Proyecto: MiniSolitario Posible Solución](https://github.com/AVegMor/miniSolitario)**
+  - Descripción: Posible solución para resolver el juego del solitario versión mini.
+  - Tecnologías: PHP.
+  - Este proyecto está basado en uno de los ejemplos proporcionados en [Mclibre](https://www.mclibre.org/).
+  
+- **[Proyecto: 🛠️ Login sin Acceso a BD Plantilla](https://github.com/AVegMor/form-sesion---plantilla)**
+  - Descripción: Plantilla para un login simple sin BD.
+  - Tecnologías: PHP.
+
+- **[Proyecto: Login sin Acceso a BD Posible Solución](https://github.com/AVegMor/form-sesion)**
+  - Descripción: Posible solución para un login simple sin BD.
+  - Tecnologías: PHP.
+
+- **[Proyecto: Login Posible Solución](https://github.com/AVegMor/login_PDO)**
+  - Descripción: Posible solución  para un login simple con acceso a BD usando MySQL y PDO.
+  - Tecnologías: PHP, MySQL, PDO.
+
+ - **[Proyecto: Clientes (CRUD)](https://github.com/AVegMor/GestClient)**
+ - **[Proyecto: Clientes (CRUD)](https://github.com/AVegMor/GestClientObjeto)**
+  - Descripción: Plantilla para un login simple con acceso a BD usando MySQL y PDO.
+  - Tecnologías: PHP, MySQL, PDO.
+
+- **[Proyecto: 🛠️ Biblioteca MVC Plantilla](https://github.com/AVegMor/bibliotecaPlantilla)**
+  - Descripción: Plantilla para una gestión de una biblioteca.
+  - Tecnologías: PHP, MySQL, PDO.
+  - Inspiración: Este proyecto está basado en el ejemplo proporcionado en [IES Celia - Introducción a MVC](https://iescelia.org/docs/dwes/_site/mvc/).
+  
+- **[Proyecto: Biblioteca MVC](https://github.com/AVegMor/bibliotecav4)**
+  - Descripción: Posible solución para una gestión de una biblioteca.
+  - Tecnologías: PHP, MySQL, PDO.
+  - Este proyecto está basado en el ejemplo proporcionado en [IES Celia - Introducción a MVC](https://iescelia.org/docs/dwes/_site/mvc/).
+  
 ---
 
-## 🖥️ Entornos de Desarrollo
-Proyectos varios relacionados con la configuración y optimización de entornos de desarrollo.
+## 📱 Programación Multimedia y Dispositivos Móviles
+Proyectos desarrollados utilizando **Kotlin** y **Jetpack Compose**.
 
 ### Proyectos
 - **[Proyecto 1: Automatización de Tareas](https://github.com/tu-usuario/proyecto5)**
