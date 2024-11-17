@@ -3,15 +3,17 @@
 ## 📱 Programación Multimedia y Dispositivos Móviles
 Proyectos desarrollados utilizando **Kotlin** y **Jetpack Compose**.
 
-### Proyectos
-- **[Proyecto 1: App de Tareas](https://github.com/tu-usuario/proyecto1)**
-  - Descripción: Una aplicación para gestionar tareas con funcionalidades de agregar, editar y eliminar tareas.
-  - Tecnologías: Kotlin, Jetpack Compose.
+### Proyectos para el módulo de **[Entornos de desarrollo]**
+- **[Proyecto 1: Calculadora baásica con tests unitarios](https://github.com/AVegMor/Calculator)**
+  - Tecnologías: Java, Sonarqube, JUnit.
 
-- **[Proyecto 2: Calculadora Avanzada](https://github.com/tu-usuario/proyecto2)**
-  - Descripción: Una calculadora con soporte para operaciones avanzadas como raíces y potencias.
-  - Tecnologías: Kotlin, Jetpack Compose.
+- **[Proyecto 2: Coche](https://github.com/AVegMor/CocheCalidad)**
+  - Descripción: Un objeto Coche en el cual se han de detectar las posibles mejoras relacionadas con la mejora de calidad del código.
+  - Tecnologías:  Java, Sonarqube, JUnit.
 
+- **[Proyecto 3: Tienda Online](https://github.com/AVegMor/TiendaOnlineCalidad)**
+  - Descripción: Una tienda online en la cual se han de detectar las posibles mejoras relacionadas con la mejora de calidad del código.
+  - Tecnologías: Java, Sonarqube, JUnit.
 ---
 
 ## 🌐 Desarrollo Web en Entornos Servidor
